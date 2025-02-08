@@ -77,8 +77,8 @@ By integrating smart fleet management with AI-driven optimization, this project 
 Key results from our testing and real-world simulations include:
 - Total traveled distance reduction by up to 41%
 <p align="center"> 
-  <img src="opt_rasJbal_10_01_test4.png" width="60%">
-  <img src="orgn_rasJbal_10_01.png" width="60%">
+  <img src="opt_rasJbal_10_01_test4.png" width="30%">
+  <img src="orgn_rasJbal_10_01.png" width="30%">
 </p>
 
 - co2 emissions, Fuel and energy costs lowered by 21% simulated using Anylogic software
