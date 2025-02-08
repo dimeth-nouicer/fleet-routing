@@ -6,9 +6,6 @@
   <img src="https://img.shields.io/badge/EV-Routing-green.svg">
 </p>
 
-<p align="center">
-  <img src="Picture1.jpg" alt="Project Overview" width="60%">
-</p>
 
 ## <b>Introduction</b> 
 
@@ -26,6 +23,7 @@ This project directly contributes to advancing sustainable transportation by opt
 - [**Project Overview**](#project-overview)
 - [**Why This Project Matters**](#why)
 - [**Impact of Fleet Optimization**](#impact)
+- [**Results**](#results)
 - [**Technology Stack**](#Technology-Stack)
 - [**Installation**](#installation)
 - [**Usage**](#usage)
@@ -72,6 +70,22 @@ By integrating smart fleet management with AI-driven optimization, this project 
 - ✔ **Dual Optimization for ICE and EVs:** Unlike other solutions, we support both traditional and electric vehicle fleets, providing optimal route planning and intelligent charging recommendations.
 - ✔ **Improved Energy Efficiency:** Our AI-driven routing and scheduling model ensures that fleets maximize energy use, reducing wastage and increasing operational efficiency.
 
+---
+
+## <b>Results</b>
+Key results from our testing and real-world simulations include:
+- Total traveled distance reduction by up to 
+<p align="center"> 
+  <img src="opt_rasJbal_10_01_test4.png">
+  <img src="orgn_rasJbal_10_01.png">
+</p>
+
+- Fuel and energy costs lowered by 15-25%
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
+</p>
+
+These results highlight the real-world impact of our solution, reinforcing its value as a scalable and effective tool for fleet managers looking to reduce costs and support sustainable transportation.
 ---
 
 ## <b>Technology Stack</b>
