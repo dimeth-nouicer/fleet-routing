@@ -106,7 +106,7 @@ pip install -r requirements.txt
 ## <b>Usage</b>
 
 ### Project Demo 🎥
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1S-k1EieBfIMk71TdebTM6zqbicm3xzyu/view?usp=sharing))
 
 This project is designed to help optimize routes for Electric Vehicles (EVs) using Reinforcement Learning (RL) techniques. Below are examples of how you can use this project:
 
