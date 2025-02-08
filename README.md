@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Electric Vehicle Routing Problem with Reinforcement Learning</b></h1>
+<h1 align="center"><b>PowerTrip</b></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
