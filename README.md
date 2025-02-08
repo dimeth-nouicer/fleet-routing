@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center"><b>Electric Vehicle Routing Problem with Reinforcement Learning</b></h1>
 
 <p align="center">
