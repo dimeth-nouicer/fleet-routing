@@ -85,7 +85,6 @@ Key results from our testing and real-world simulations include:
 <p align="center"> 
   <img src="eFleetStats.png" width="60%">
 </p>
-
 These results highlight the real-world impact of our solution, reinforcing its value as a scalable and effective tool for fleet managers looking to reduce costs and support sustainable transportation.
 ---
 
