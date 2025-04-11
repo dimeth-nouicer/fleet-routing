@@ -9,16 +9,23 @@
 
 ## <b>Paper</b>
 For more details, please see our paper A Novel Routing Solution for EV Fleets: A Real-World Case Study Leveraging Double DQNs and Graph-Structured Data to Solve the EVRPTW Problem, which has been accepted at IEEE ACCESS. If this code is useful for your work, please cite our paper:
+> **Nouicer, Dimeth; Msadaa, Ikbal Chammakhi; Grayaa, Khaled.**  
+> *A Novel Routing Solution for EV Fleets: A Real-World Case Study Leveraging Double DQNs and Graph-Structured Data to Solve the EVRPTW Problem.*  
+> IEEE Access, vol. 11, pp. 122116–122127, 2023.  
+> DOI: [10.1109/ACCESS.2023.3327324](https://doi.org/10.1109/ACCESS.2023.3327324)
+
+### BibTeX:
+```bibtex
 @ARTICLE{10295443,
-  author={Nouicer, Dimeth and Msadaa, Ikbal Chammakhi and Grayaa, Khaled},
-  journal={IEEE Access}, 
-  title={A Novel Routing Solution for EV Fleets: A Real-World Case Study Leveraging Double DQNs and Graph-Structured Data to Solve the EVRPTW Problem}, 
-  year={2023},
-  volume={11},
-  number={},
-  pages={122116-122127},
-  keywords={Routing;Electric vehicles;Feature extraction;Costs;Vehicle dynamics;Optimization;Charging stations;Reinforcement learning;Deep reinforcement learning;DDQN;electric vehicles;EVRPTW;fleet;graph structure},
-  doi={10.1109/ACCESS.2023.3327324}}
+  author  = {Nouicer, Dimeth and Msadaa, Ikbal Chammakhi and Grayaa, Khaled},
+  title   = {A Novel Routing Solution for EV Fleets: A Real-World Case Study Leveraging Double DQNs and Graph-Structured Data to Solve the EVRPTW Problem},
+  journal = {IEEE Access},
+  year    = {2023},
+  volume  = {11},
+  pages   = {122116--122127},
+  doi     = {10.1109/ACCESS.2023.3327324},
+  keywords = {Routing; Electric vehicles; Feature extraction; Costs; Vehicle dynamics; Optimization; Charging stations; Reinforcement learning; Deep reinforcement learning; DDQN; electric vehicles; EVRPTW; fleet; graph structure}
+}
   
 ## <b>Introduction</b> 
 
