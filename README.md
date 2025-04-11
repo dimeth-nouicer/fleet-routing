@@ -26,7 +26,9 @@ For more details, please see our paper A Novel Routing Solution for EV Fleets: A
   doi     = {10.1109/ACCESS.2023.3327324},
   keywords = {Routing; Electric vehicles; Feature extraction; Costs; Vehicle dynamics; Optimization; Charging stations; Reinforcement learning; Deep reinforcement learning; DDQN; electric vehicles; EVRPTW; fleet; graph structure}
 }
-  
+
+---
+
 ## <b>Introduction</b> 
 
 Climate change is one of the most pressing challenges of our time, with transportation being a major contributor to global CO2 emissions. The United Nations' **Sustainable Development Goals (SDGs)** emphasize the need for sustainable cities and communities (**SDG 11**), climate action (**SDG 13**), and affordable, clean energy (**SDG 7**). A key component of achieving these goals is the **transition to sustainable transportation**.
