@@ -13,7 +13,6 @@ For more details, please see our paper A Novel Routing Solution for EV Fleets: A
 > *A Novel Routing Solution for EV Fleets: A Real-World Case Study Leveraging Double DQNs and Graph-Structured Data to Solve the EVRPTW Problem.*  
 > IEEE Access, vol. 11, pp. 122116–122127, 2023.  
 > DOI: [10.1109/ACCESS.2023.3327324](https://doi.org/10.1109/ACCESS.2023.3327324)
-
 ## BibTeX:
 ```bibtex
 @ARTICLE{10295443,
@@ -25,7 +24,7 @@ For more details, please see our paper A Novel Routing Solution for EV Fleets: A
   pages   = {122116--122127},
   doi     = {10.1109/ACCESS.2023.3327324},
   keywords = {Routing; Electric vehicles; Feature extraction; Costs; Vehicle dynamics; Optimization; Charging stations; Reinforcement learning; Deep reinforcement learning; DDQN; electric vehicles; EVRPTW; fleet; graph structure}
-}
+} ```
   
 ## <b>Introduction</b> 
 
